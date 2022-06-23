@@ -1,1 +1,1 @@
-# banco-de-dados-Rio-Branco
+Eu tenho aula de Banco de Dados e estou estudando sobre o assunto SQL
